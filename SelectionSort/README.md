@@ -23,3 +23,4 @@ Below, we have a pictorial representation of how selection sort will sort the gi
 ## Source
 - [Wikipedia](https://en.wikipedia.org/wiki/Selection_sort)
 - [Studytonight](https://www.studytonight.com/data-structures/selection-sorting)
+- [gifimage](https://gifimage.net/selection-sort-gif-12/)
