@@ -5,7 +5,7 @@ _Selection sort is conceptually the most simplest sorting algorithm_. _This algo
 _It is called selection sort because it repeatedly **selects** the next-smallest element and swaps it into the right place_.
 
 ## Selection sort animation.
-![](https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif) **_Red is current min. Yellow is sorted list. Blue is current item_**.
+![](https://gifimage.net/wp-content/uploads/2018/05/selection-sort-gif-12.gif)
 
 ## How Selection Sorts Works?
 Following are the steps involved in selection sort(for sorting a given array in ascending order):
