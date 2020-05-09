@@ -1,6 +1,6 @@
 ## Selection Sort
 
-_Selection sort is conceptually the most simplest sorting algorithm_. _This algorithm will first find the **smallest** element in the array and swap it with the element in the **first** position, then it will find the **second smallest** element and swap it with the element in the **second** position, and it will keep on doing this until the entire array is sorted_.
+_[Selection sort](https://github.com/HembramBeta777/Sorting-Algorithm/blob/master/SelectionSort/selection_sort.c) is conceptually the most simplest sorting algorithm_. _This algorithm will first find the **smallest** element in the array and swap it with the element in the **first** position, then it will find the **second smallest** element and swap it with the element in the **second** position, and it will keep on doing this until the entire array is sorted_.
 
 _It is called selection sort because it repeatedly **selects** the next-smallest element and swaps it into the right place_.
 
@@ -19,7 +19,22 @@ Let's consider an array with values {3, 6, 1, 8, 4, 5}
 Below, we have a pictorial representation of how selection sort will sort the given array.
 ![](https://www.studytonight.com/data-structures/images/simple-selection-sort.png)
 ## Code
++ [selection_sort.c](https://github.com/HembramBeta777/Sorting-Algorithm/blob/master/SelectionSort/selection_sort.c)
 
+## Time Complexity
+
+###### SelectionSort
+        
+|Best Case|Average Case|Worst Case|
+|---------|------------|-----------
+|[_Big-Omega_]:O(n^2)|[_Big-theta_ ]:O(n^2)|[_Big-O_]:O(n^2) 
+#### Space Complexity
+
+ | O(1)|
+ |-------|
+
+
+ 
 ## Source
 - [Wikipedia](https://en.wikipedia.org/wiki/Selection_sort)
 - [Studytonight](https://www.studytonight.com/data-structures/selection-sorting)
