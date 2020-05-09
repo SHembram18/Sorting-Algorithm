@@ -32,6 +32,9 @@ Below, we have a pictorial representation of how selection sort will sort the gi
 
  | O(1)|
  |-------|
+ 
+ ##### Youtube
+ (https://youtu.be/qSRHW32sHow)
 
 
  
