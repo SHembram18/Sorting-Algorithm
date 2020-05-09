@@ -33,10 +33,8 @@ Below, we have a pictorial representation of how selection sort will sort the gi
  | O(1)|
  |-------|
  
- ##### Youtube
- (https://youtu.be/qSRHW32sHow)
-
-
+ ### Youtube
+ https://youtu.be/qSRHW32sHow
  
 ## Source
 - [Wikipedia](https://en.wikipedia.org/wiki/Selection_sort)
