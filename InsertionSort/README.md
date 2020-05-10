@@ -1,5 +1,5 @@
 ## Insertion Sort
-Insertion sort is a simple sorting algorithm that works the way we sort playing cards in our hands.
+[Insertion sort](https://github.com/HembramBeta777/Sorting-Algorithm/blob/master/InsertionSort/insertion_sort.c) is a simple sorting algorithm that works the way we sort playing cards in our hands.
 It builds the final sorted array (or list) one item at a time. 
 It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort.
 
@@ -14,8 +14,20 @@ It is much less efficient on large lists than more advanced algorithms such as q
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif)
 
 ## Code
+[insertion_sort.c](https://github.com/HembramBeta777/Sorting-Algorithm/blob/master/InsertionSort/insertion_sort.c)
 
 ## Time Complexity
+
+  | _Worst Case_ | _Best Case_ | _Average Case_ 
+  ---------------| ------------| --------------
+  |[Big-O]: O(n^2)| [Big-Omega]: O(n)| [Big-theta]: O(n^2)
+ 
+ ## _Space Complexity_
+
+ |O(1)
+ |-----
+
+  
 
 ## Youtube
 + https://youtu.be/ep8uG1IBApQ
