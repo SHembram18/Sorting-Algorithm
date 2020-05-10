@@ -9,6 +9,7 @@ For example: The below list of characters is sorted in increasing order of their
 
 1. [BubbleSort](https://www.github.com/HembramBeta777/Sorting-Algorithm/blob/master/BubbleSort/)
 2. [SelectionSort](https://github.com/HembramBeta777/Sorting-Algorithm/tree/master/SelectionSort)
+3. [InsertionSort](https://github.com/HembramBeta777/Sorting-Algorithm/blob/master/InsertionSort/)
 
 
 
