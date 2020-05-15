@@ -18,3 +18,6 @@ For example: The below list of characters is sorted in increasing order of their
 - [Programiz](https://www.programiz.com/dsa/bubble-sort/)
 - [Studytonight](https://www.studytonight.com/data-structures/introduction-to-sorting/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
+
+#### Thanks to:-
+https://icomoon.io/ for the icon
