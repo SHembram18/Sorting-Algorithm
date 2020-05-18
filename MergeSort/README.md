@@ -29,10 +29,10 @@ it becomes easier to solve the whole problem.
 + Then we divide these 2 subarrays again, just like we divided our main array and this continues.
 + Once we have divided the main array into subarrays with single elements, then we start merging the subarrays.
 
-### _You Tube_
+### _You Tube_ ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-youtube-50.png?raw=true)
 + https://youtu.be/uw-7jejiiTw
 
-### *Code*
+### *Code* ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/Icons8/icons8-code-16.png?raw=true)
 
 ### *Time Complexity*
 
