@@ -13,7 +13,7 @@ It is much less efficient on large lists than more advanced algorithms such as q
 ## Graphical Example
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif)
 
-## Code
+## Code ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/Icons8/icons8-code-16.png?raw=true)
 [insertion_sort.c](https://github.com/HembramBeta777/Sorting-Algorithm/blob/master/InsertionSort/insertion_sort.c)
 
 ## Time Complexity
@@ -29,10 +29,10 @@ It is much less efficient on large lists than more advanced algorithms such as q
 
   
 
-## Youtube
-+ https://youtu.be/ep8uG1IBApQ
+## Youtube ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-youtube-40.png?raw=true)
+![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/Icons8/icons8-link-26.png?raw=true) https://youtu.be/ep8uG1IBApQ
 
 ### Credits
-+ [wikipedia](https://en.wikipedia.org/wiki/Insertion_sort)
-+ [GeeksforGeeks](https://www.geeksforgeeks.org/insertion-sort/)
-+ [Studytonight](https://www.studytonight.com/data-structures/insertion-sorting)
+![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/Icons8/icons8-link-26.png?raw=true) [wikipedia](https://en.wikipedia.org/wiki/Insertion_sort)
+![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/Icons8/icons8-link-26.png?raw=true) [GeeksforGeeks](https://www.geeksforgeeks.org/insertion-sort/)
+![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/Icons8/icons8-link-26.png?raw=true) [Studytonight](https://www.studytonight.com/data-structures/insertion-sorting)
