@@ -26,11 +26,11 @@ and swapping them if required
 |_Average case_               | _O(n^2)_      | _O(n^2)_
 |_Worst-case space complexity_| _O(n)total_   | _O(1)auxiliary_
 
-### Code
+### Code ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/Icons8/icons8-code-16.png?raw=true)
 [bubble_sort.c](https://github.com/HembramBeta777/Sorting-Algorithm/blob/master/BubbleSort/bubble_sort.c)
 
-### Source
+### Source ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/analyze-48.png?raw=true)
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)
++ [Wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)
 
-[Studytonight](https://www.studytonight.com/data-structures/bubble-sort)
++ [Studytonight](https://www.studytonight.com/data-structures/bubble-sort)
