@@ -7,9 +7,9 @@ For example: The below list of characters is sorted in increasing order of their
 
 ## FILES ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-copybook-48.png?raw=true)
 
-1. [BubbleSort](https://www.github.com/HembramBeta777/Sorting-Algorithm/blob/master/BubbleSort/)
-2. [SelectionSort](https://github.com/HembramBeta777/Sorting-Algorithm/tree/master/SelectionSort)
-3. [InsertionSort](https://github.com/HembramBeta777/Sorting-Algorithm/blob/master/InsertionSort/)
+1️⃣ [BubbleSort](https://www.github.com/HembramBeta777/Sorting-Algorithm/blob/master/BubbleSort/)
+2️⃣ [SelectionSort](https://github.com/HembramBeta777/Sorting-Algorithm/tree/master/SelectionSort)
+3️⃣ [InsertionSort](https://github.com/HembramBeta777/Sorting-Algorithm/blob/master/InsertionSort/)
 
 
 
@@ -20,7 +20,7 @@ For example: The below list of characters is sorted in increasing order of their
 - [GeeksforGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
 - [Himanshu40/Sorting-Algorithm](https://github.com/Himanshu40/Sorting-Algorithm)
 
-### License
+### License 📜
  [GNU GPL v3.0](https://github.com/HembramBeta777/Sorting-Algorithm/blob/master/LICENSE)
 
 ### Social Media ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/Icons8/icons8-link-26.png?raw=true)
